@@ -6,11 +6,11 @@ This is the back-end of a demo coin flip game. It's written in Typescript and us
 
 [Front End Repo](https://github.com/XDapps/coin-flip-game-front-end)
 
-
 ## Installation
 
-1. Please see .example.env file and recreate a .env in the same format.
-2. Navigate to your project directory and run:
+1. Create a MongoDB instance either locally or in the cloud.
+2. Create a .env file in the format of .example.env including your MongoDB connection string.
+3. Navigate to your project directory and run:
 
 ```shell
 npm install
